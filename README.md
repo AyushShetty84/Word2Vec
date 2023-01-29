@@ -16,4 +16,4 @@ Using PCA, feature vector was reduced to 3D which was further used in Visualizat
 * [Gensim](https://github.com/RaRe-Technologies/gensim) (3.6.0)
 * [Nltk](https://github.com/nltk/nltk) (3.7)
 * [scikit-learn ](https://github.com/scikit-learn/scikit-learn) (1.2.1)
-* [Ploty Express](https://plotly.com/python/plotly-express/) (5.13.0)
+* [Plotly Express](https://plotly.com/python/plotly-express/) (5.13.0)
